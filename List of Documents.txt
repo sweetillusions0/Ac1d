@@ -1,0 +1,157 @@
+1) IoT Security Framework Scope
+1.1) IoT Security Framework Scope
+
+2) Business Continuity Plan
+2.1) Business Continuity Plan
+
+3) Internal Audit and Gap Analysis Procedures
+3.1) Internal Audit Procedures
+3.2) Gap Analysis Procedures
+
+4) Security Awareness Procedures
+4.1) Security Awareness Procedures
+
+5) Supplier (Third Party)
+5.1) Supplier Security Policy
+5.2) Third Party Connection Policy
+
+6) Records Appraisal Procedure
+6.1) Records Appraisal Procedure
+
+7) Assest Management
+7.1) Asset Management Policy
+
+8) Compliance and Certification
+8.1) Compliance Requirements
+8.2) Regulatory Adherence: Documentation & audits
+8.3) Certification for new technologies and practices
+8.4) Certification Processes
+8.5) Criteria: Device and system certification standards
+8.6) Development of certification processes for emerging technologies
+
+9) Incident Management and Response
+9.1) Incident Detection and Reporting
+9.2) Detection Mechanisms: Anomaly detection & logging
+9.3) Reporting Procedures: Incident reporting protocols
+9.4) Real-time threat intelligence integration and automated reporting
+9.5) Incident Response Plan
+9.6) Response Procedures: Incident handling, containment, eradication
+9.7) Industry-specific incident response playbooks
+9.8) Post-Incident Analysis
+9.9) Analysis: Root cause analysis & forensic investigations
+9.10) Framework for continuous improvement based on incident analysis
+
+10) Device Security
+10.1) Device Authentication and Access Control
+10.2) Standard Authentication Methods: Digital certificates & hardware-based authentication
+10.3) Advanced Access Control Policies: Attribute-based access control (ABAC) & dynamic policy enforcement
+10.4) Continuous adaptive authentication methods
+10.5) Secure Communication
+10.6) Encryption Protocols: TLS & end-to-end encryption
+10.7) Data Integrity Mechanisms: Hashing algorithms & digital signatures
+10.8) Gap Policy: Encrypted communication for low-power & resource-constrained devices
+10.9) Firmware and Software Integrity
+10.10) Cryptographic verification of firmware
+10.11) Update Mechanisms: Secure over-the-air (OTA) updates with rollback capabilities
+10.12) Standardised procedures for verifying third-party software components
+10.13) Physical Security
+10.14) Tamper-Evident Design: Physical seals & intrusion detection
+10.15) Secure Installation: Guidelines for preventing physical tampering
+10.16) Comprehensive guidelines for physical security in remote or inaccessible installations
+10.17) Endpoint Protection
+10.18) Endpoint Detection: Anti-malware & endpoint protection platforms
+10.19) Integration of endpoint protection with network-wide security monitoring
+
+11) Data Security and Privacy
+11.1) Data Encryption
+11.2) Data at Rest and in Transit: Encryption standards & key management
+11.3) Encryption standards for high-throughput data environments
+11.4) Data Integrity and Provenance
+11.5) Data Integrity Checks: Checksums & digital signatures
+11.6) Provenance Tracking: Tools for tracking data origin and changes
+11.7) Automated tools for real-time data provenance and anomaly detection
+11.8) Privacy Compliance
+11.9) Regulatory Compliance: GDPR, CCPA, other regional regulations
+11.10) Data Minimisation: Principles for limiting data collection
+11.11) Industry-specific privacy requirements for industrial data
+11.12) Data Access and Sharing
+11.13) Access Controls: Fine-grained access control policies
+11.14) Data Sharing Mechanisms: Secure APIs & data anonymisation
+11.15) Standardised frameworks for secure data sharing across multi-vendor environments
+
+12) Network Security
+12.1) Network Segmentation
+12.2) Segmentation Strategies: VLANs, subnetting & DMZs
+12.3) Gap Policy: Dynamic network segmentation based on real-time threat assessment
+12.4) Firewalls and Intrusion Detection Systems (IDS)
+12.5) Firewall Policies: Configuration best practices
+12.6) IDS/IPS Deployment: Real-time threat detection and response
+12.7) Gap Policy: Integration of IDS/IPS with automated response systems
+12.8) Secure Network Protocols
+12.9) Security guidelines for emerging network protocols
+12.10) Vulnerability Management
+12.11) Regular Assessments: Vulnerability scanning & penetration testing
+12.12) Patch Management: Procedures for timely patch application
+12.13) Comprehensive vulnerability management for legacy systems
+
+13) Interoperability
+13.1) Standardised Communication Protocols
+13.2) Protocols: OPC UA, MQTT, CoAP
+13.3) Protocol translation standards for seamless integration
+13.4) Data Exchange Formats
+13.5) Standardised data schemas for industrial IoT data interoperability
+13.6) APIs and Integration
+13.7) API Security: Authentication, rate limiting & access controls
+13.8) Guidelines for secure API development and management
+
+14) Physical Security Procedure
+14.1) Physical Security Procedure
+
+15) Lifecycle Management
+15.1) Device Onboarding and Provisioning
+15.2) Automated provisioning and configuration management systems
+15.3) Ongoing Maintenance and Updates
+15.4) Guidelines for continuous monitoring and automated updates
+15.5) Secure Decommissioning and disposal: Data wiping & device recycling
+15.6) End-of-life procedures for ensuring complete data destruction and hardware security
+
+16) Policies Addressing Machine Learning and AI in IoT
+16.1) AI Model Security
+16.2) AI Model Integrity and Confidentiality
+16.3) AI Robustness against Adversarial Attacks
+16.4) AI Explainability and Transparency
+16.5) Data Security for AI
+16.6) AI Training & Data Protection
+16.7) Data Privacy in AI Applications
+16.8) Secure Data Sharing for AI Collaboration
+16.9) AI Ethics and Governance
+16.10) AI Fairness and Bias Mitigation
+16.11) AI Accountability and Responsibility
+16.12) Human Oversight and AI Control
+16.13) AI Specific Threats and Vulnerabilities
+16.14) AI Model Inversion Attacks
+16.15) Membership Inference Attacks
+16.16) AI Powered Attacks
+
+17) Emerging Threats and Future Proofing
+17.1) Emerging Threats
+17.2) Threat Landscape: Awareness of new threats and attack vectors
+17.3) Proactive threat modeling and scenario planning
+17.4) Future Proofing
+17.5) Adaptability: Regular updates to standards & flexible frameworks
+17.6) Mechanisms for incorporating feedback and adapting to technological advancements
+
+18) Forms
+18.1) Critical Policies - Internal Implementation Tracker
+18.2) Gap Analysis Template
+18.3) Security Incident Form
+18.4) Asset Inventory Tracker
+18.5) Approved IoT Hardware Provider List
+18.6) Approved IoT Software Provider List
+18.7) Register of Applicable Legislation
+18.8) Risk Treatment Plan
+18.9) Internal Audit Schedule
+18.10) Risk Treatment Register
+18.11) Device Disposal Log
+18.12) Backup Data Log
+18.13) Meeting Minutes
